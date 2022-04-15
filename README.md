@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Sandsnower
-- 👀 I love it when hairy men are smeared with oil
-
-<!---
-Sandsnower/Sandsnower is a ✨special✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @SNOWKINGER
+- 🇺🇦 I'm from Ukraine
+- 📕 I'm studying Python (~30%)
+- 📗 I have already studied HTML and CSS, also I know JS a little (~20%)
