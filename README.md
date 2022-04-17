@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SNOWKINGER.
+- 👋 Hi, I’m @trvl009.
 - 🇺🇦 I'm from Ukraine.
 - 📕 I'm studying Python (~30%).
 - 📗 I have already studied HTML and CSS, also I know JS a little (~15%).
