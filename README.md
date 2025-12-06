@@ -6,7 +6,7 @@
 - 🧰 Write bash scripts
 
 > I use Arch btw
-
-<img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=trvl009&show_icons=true&theme=gruvbox)"/>
+> 
+![GitHub Card](https://githubcard.com/trvl009.svg)
 
 ![Static Badge](https://img.shields.io/badge/trvl009-black?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Ftrvl009)
