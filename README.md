@@ -3,7 +3,7 @@
 🎯 **About me**
 - 🧠 Studying **cybersecurity (mainly pentest)** and learning **Python**  
 - 🌐 Know the basics of web **(HTML/CSS)**  
-- 🧰 Write bash scripts
+- 🧰 Writing bash scripts
 
 > I use Arch btw
 
