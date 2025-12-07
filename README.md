@@ -1,9 +1,11 @@
 # 👋 Hi, I'm trvl009!
 
-🎯 **About me**
-- 🧠 Studying **cybersecurity (mainly pentest)** and learning **Python**  
-- 🌐 Know the basics of web **(HTML/CSS)**  
-- 🧰 Writing bash scripts
+---
+
+### 🎯 About me
+- 🧠 Studying **cybersecurity (mainly pentest)** and learning **Python**.
+- 🌐 Know the basics of web **(HTML/CSS)**.
+- 🧰 Writing bash scripts.
 
 > I use Arch btw
 
